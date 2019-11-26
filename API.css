@@ -1,0 +1,49 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+body {
+    background: url('./images/madison-kaminski-2c6_d8svbkY-unsplash.jpg') center 50% no-repeat fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+.card{
+    margin: 0 auto;
+    float: none;
+    margin-bottom: auto;
+    margin-top: 5em;
+    background-color:rgba(245, 245, 245, 0.5) !important; ;
+}
+
+.card-body{
+  text-align: center;
+  background: blur(7px);
+}
+
+h1 {
+ font-family: Mansalva; 
+}
+
+h2 {
+  text-align: center;
+  font-family: Mansalva;
+}
+
+p {
+  font-family: Jaldi;
+}
+
+p.card-text {
+  font-family: Mansalva;
+  font-size: 20px;
+}
+
+
+img {
+  position: center;
+}
+
+my-4{
+  stroke-width: 2px;
+}
